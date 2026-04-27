@@ -1,0 +1,13 @@
+要在github上贡献自己的力量，就要了解github的协同工作模式，就是pull request的使用
+		分支是Git中的核心概念，
+		整个GitHub流程都以此为基础。
+		只有一条规则：
+					main分支中的任何内容始终都是可部署的。
+		
+		# 单独设置每个repo 用户名/邮箱				设置每个项目repo的自己的user.email	
+		git config user.email "lpshfish@gmail.com"
+		git config user.email "50916645+CodingKL@users.noreply.github.com"
+		git config user.name "CodingKL"
+		
+		git config user.email “lpshfish@yahoo.co.jp”
+		git config user.name “JavaUseToDev”
