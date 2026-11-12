@@ -12,6 +12,7 @@ if you have any questions about logging into your account,
 updating your account information, your messages or other details regarding your account.
 
 ---------------------------------------------
+https://my.ny.gov/LoginV4/login.xhtml
 https://nystateofhealth.ny.gov/
 zym@gm
 uname:		TomHYZ
@@ -21,7 +22,11 @@ Little White Dog
 Long Pan Xiao Xue
 ShuFuhai
 
+保险续保成功了，新的保险有效日期
+20261201 - 20271130
 
+邀请码
+17033 38413 77112 809313
 
 ---------------------------------------------
 emblemhealth
@@ -31,5 +36,9 @@ username        zm87@gm
 PD		9kz@
 --------------------------------------------------------------------------------------------
 
+20261201 - 20271130
 
+邀请码
+17033 38413 77112 809313
 
+---------------------------------------------------------------------------
