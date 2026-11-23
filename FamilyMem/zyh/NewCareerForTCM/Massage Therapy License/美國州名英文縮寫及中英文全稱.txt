@@ -1,0 +1,54 @@
+美國州名英文縮寫及中英文全稱
+
+美國各州的郵政縮寫，英、中文全稱以及首府，按英文縮寫排列：
+NO	縮寫	州名原文	                    州名中文	          	首都中文	                            首都英文
+1	AL	Alabama		阿拉巴馬州		蒙哥馬利		Montgomery
+2	AK	Alaska		阿拉斯加州		朱諾		Juneau
+3	AZ	Arizona		亞利桑那州		鳳凰城		Phoenix
+4	AR	Arkansas		阿肯色州		小岩城		Little Rock
+5	CA	California		加利福尼亞州	沙加緬度		Sacramento
+6	CO	Colorado		科羅拉多州		丹佛		Denver
+7	CT	Connecticut	康乃狄克州		哈特福		Hartford
+8	DE	Delaware		德拉瓦州		多佛		Dover
+9	FL	Florida		佛羅里達州		塔拉哈西		Tallahassee
+10	GA	Georgia		喬治亞州		亞特蘭大		Atlanta
+11	HI	Hawaii		夏威夷州		檀香山		Honolulu
+12	ID	Idaho		愛德荷州		波伊西		Boise
+13	IL	Illinois		伊利諾州		春田市		Springfield
+14	IN	Indiana		印地安那州		印地安那波利斯	Indianapolis
+15	IA	Iowa		愛荷華州		第蒙		Des Moines
+16	KS	Kansas		堪薩斯州		托皮卡		Topeka
+17	KY	Kentucky		肯塔基州		法蘭克福		Frankfort
+18	LA	Louisiana		路易西安納州	巴吞魯日		Baton Rouge
+19	ME	Maine		緬因州		奧古斯塔		Augusta
+20	MD	Maryland		馬里蘭州		安那波利斯		Annapolis
+21	MA	Massachusetts	麻薩諸塞州		波士頓		Boston
+22	MI	Michigan		密西根州		蘭辛		Lansing
+23	MN	Minnesota	明尼蘇達州		聖保羅		St. Paul
+24	MS	Mississippi	密西西比州		傑克遜		Jackson
+25	MO	Missouri		密蘇里州		傑斐遜城		Jefferson City
+26	MT	Montana		蒙大拿州		赫勒拿		Helena
+27	NE	Nebraska		內布拉斯加州	林肯		Lincoln
+28	NV	Nevada		內華達州		卡森城		Carson City
+29	NH	New Hampshire	新罕布夏州		康科德		Concord
+30	NJ	New Jersey	紐澤西州		翠頓		Trenton
+31	NM	New Mexico	新墨西哥州		聖塔菲		Santa Fe
+32	NY	New York		紐約州		奧爾巴尼		Albany
+33	NC	North Carolina	北卡羅萊那州	羅利		Raleigh
+34	ND	North Dakota	北達科他州		俾斯麥		Bismarck
+35	OH	Ohio		俄亥俄州		哥倫布		Columbus
+36	OK	Oklahoma	奧克拉荷馬州	奧克拉荷馬市	Oklahoma City
+37	OR	Oregon		奧勒岡州		賽倫		Salem
+38	PA	Pennsylvania	賓夕法尼亞州	哈里斯堡		Harrisburg
+39	RI	Rhode Island	羅德島州		普羅維登斯		Providence
+40	SC	South Carolina	南卡羅萊那州	哥倫比亞		Columbia
+41	SD	South Dakota	南達科他州		皮爾		Pierre
+42	TN	Tennessee	田納西州		納許維爾		Nashville
+43	TX	Texas		德克薩斯州		奧斯汀		Austin
+44	UT	Utah		猶他州		鹽湖城		Salt Lake City
+45	VT	Vermont		佛蒙特州		蒙皮立		Montpelier
+46	VA	Virginia		維吉尼亞州		里奇蒙		Richmond
+47	WA	Washington	華盛頓州		奧林匹亞		Olympia
+48	WV	West Virginia	西維吉尼亞州	查爾斯頓		Charleston
+49	WI	Wisconsin	威斯康辛州		麥迪遜		Madison
+50	WY	Wyoming		x懷俄明州		夏延		Cheyenne
