@@ -1,0 +1,55 @@
+Phantom 钱包的 4 位数字 PIN 码主要用于通过 Google 或 Apple 账号登录创建的钱包
+                       （用于解锁或恢复关联的加密备份）。
+Phantom 官方也在逐步将这类钱包迁移至新的密钥管理系统（Phantom KMS），
+                         以支持直接通过 Google 或 Apple 账号登录而无需单独输入 PIN 码。
+
+核心注意事项与操作
+
+• 切勿盲目猜测：连续输错 PIN 码 7 次，会删除该设备上的加密备份。
+• 官方无法找回：Phantom 客服无法重置或找回遗失的 PIN 码、助记词或私钥。
+• 能打开钱包时：先离线备份好 12 或 24 个单词的助记词（Secret Recovery Phrase）及导入的私钥，
+                                          可在设置 > 安全与隐私 > 重置 PIN（Settings > Security & Privacy > Reset PIN）中重置。
+• 无法打开钱包时：若已备份助记词或私钥，可通过重新导入恢复钱包；
+                                            若其他设备仍处于登录状态，可先在已登录设备上导出助记词。
+• 免 PIN 迁移说明：部分 Google/Apple 登录钱包可升级至免 PIN 登录方式，
+                                                具体可查看 Migrate your Phantom wallet to sign in without the PIN。
+https://help.phantom.com/articles/migrate-your-phantom-wallet-to-sign-in-without-the-pin-51798225254291
+Migrate your Phantom wallet to sign in without the PIN
+You may see an in-app prompt asking you to confirm your identity with the Google or Apple account connected to your wallet. This is part of a security upgrade for accounts created with Google or Apple login. After this update, you can sign in without needing your four-digit PIN. This article explains what the prompt does and why it’s safe.
+
+Is this safe? Why does this look unfamiliar? #
+Yes. This is a legitimate prompt to confirm that you still have access to the Google or Apple account connected to your wallet. It does not make any changes to the assets stored in your wallet.
+
+wallet-migration-prompt.pngA prompt to confirm that you still have access to your Google or Apple account
+If you close the prompt or the confirmation does not go through, no changes are made to your account. Your wallet will continue to work as it did before.
+
+What changed? #
+Phantom is updating how wallets created with Google or Apple login are protected. These wallets previously used a four-digit PIN as part of the sign-in setup. As part of this update, we’re migrating these wallets to Phantom KMS, a newer key management system that uses your Google or Apple account directly to help protect your wallet.
+
+After the upgrade, you can sign in with your Google or Apple account without needing to remember a separate PIN. You’ll just need access to the Google or Apple account connected to your Phantom wallet.
+
+What if I don't complete it right away? #
+You can dismiss the prompt and keep using Phantom as usual. If you don't finish the migration, you may be prompted again later.
+
+What happened to my PIN? #
+Your four-digit PIN was part of the previous sign-in setup for wallets created with Google or Apple login. After your wallet is upgraded, you can sign in with your Google or Apple account without entering a separate PIN.
+
+Is my wallet still secure? #
+Yes. Your wallet is protected by your Google or Apple account, the same login you’ve always used. This upgrade also improves how your wallet is protected behind the scenes.
+
+We recommend making sure your Google or Apple account has a strong password and two factor authentication enabled.
+
+Can I add additional security to my account? #
+Multi-factor authentication is on our roadmap. We will update this article as these options become available.
+
+What if I'm having trouble signing in or completing migration? #
+Make sure you’re using the same Google or Apple account connected to your Phantom wallet. If the prompt shows an email address, use that account to continue.
+
+If the confirmation doesn’t go through, try again later with a stable internet connection. If you’re still having trouble, contact Phantom Support.
+
+
+你目前遇到的具体情况是哪一种？
+• 忘记了 PIN 码，但钱包还能打开或有助记词
+• 提示输入 PIN 码，想了解如何免 PIN 登录或恢复钱包
+• 其他关于 PIN 码设置或安全的问题
+
